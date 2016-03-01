@@ -1,0 +1,8 @@
+# Ignore Play! working directory #
+.idea/libraries/
+/project/project/target
+/project/target
+/target
+/.idea
+/project/.sbtserver
+*.log
